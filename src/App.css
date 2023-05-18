@@ -1,0 +1,15 @@
+*{
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+}
+body{
+  background-color: #5f9ea0;
+}
+/* .formContainer{
+  max-width: 768px;
+  margin-left: auto;
+  margin-right: auto;
+ 
+  height: 500px;
+} */
